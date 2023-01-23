@@ -44,7 +44,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![lu decomposition](img.ppng.png)
+![model](img.ppng.png)
 
 
 ## Result:
